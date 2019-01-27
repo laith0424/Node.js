@@ -1,0 +1,8 @@
+H  E  L  P:
+
+write:  h  or help or "any thing"  : Help Menu
+write: -a, --add [value]           : Add an item
+write: -r, --remove [value]        : Remove an item
+write: -l, --list                  : Show the list of the items
+write: -R, --reset                 : Delete all the items
+write: -u, --update [value,value]  : Update an  item with a new one
